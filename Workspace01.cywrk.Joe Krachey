@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Workspace01\Task_Basics\Task_Basics.cydwr\Pins">
+<ExpandedNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\TopDesign</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Pins</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Analog</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\DMA</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Clocks</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Interrupts</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\System</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Directives</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)\Header Files</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)\Source Files</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)\Header Files</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)\Source Files</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>Workspace01\Task_Basics\Shared Files</v>
+<v>Workspace01\Task_Basics\Shared Files\cyapicallbacks.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\TopDesign</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Pins</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Analog</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\DMA</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Clocks</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Interrupts</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\System</v>
+<v>Workspace01\Task_Basics\Task_Basics.cydwr\Directives</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)\Header Files</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)\Source Files</v>
+<v>Workspace01\Task_Basics\CM0p (Core 0)\Source Files\main_cm0p.c</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)\Header Files</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)\Source Files</v>
+<v>Workspace01\Task_Basics\CM4 (Core 1)\Source Files\main_cm4.c</v>
+<v>Workspace01\Task_Basics\Shared Files</v>
+<v>Workspace01\Task_Basics\Shared Files\cyapicallbacks.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\TopDesign</v>
+<v>Workspace01\Task_Basics\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\TopDesign</v>
+<v>Workspace01\Task_Basics\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\Task_Basics.gpdsc</v>
+<v>Workspace01\Task_Basics\Task_Basics.rpt</v>
+<v>Workspace01\Task_Basics\Task_Basics_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\Task_Basics.gpdsc</v>
+<v>Workspace01\Task_Basics\Task_Basics.rpt</v>
+<v>Workspace01\Task_Basics\Task_Basics_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\PSoC 6 Architecture TRM</v>
+<v>Workspace01\Task_Basics\PSoC 63 Family Datasheet</v>
+<v>Workspace01\Task_Basics\Peripheral Driver Library</v>
+<v>Workspace01\Task_Basics\System Reference Guides</v>
+<v>Workspace01\Task_Basics\GPIO_PDL_v1_0</v>
+<v>Workspace01\Task_Basics\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Workspace01\Task_Basics\SCB_UART_PDL_v2_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Workspace01</v>
+<v>Workspace01\Task_Basics</v>
+<v>Workspace01\Task_Basics\PSoC 6 Architecture TRM</v>
+<v>Workspace01\Task_Basics\PSoC 63 Family Datasheet</v>
+<v>Workspace01\Task_Basics\Peripheral Driver Library</v>
+<v>Workspace01\Task_Basics\System Reference Guides</v>
+<v>Workspace01\Task_Basics\GPIO_PDL_v1_0</v>
+<v>Workspace01\Task_Basics\GPIO_PDL_v1_0\GPIO_PDL_v1_0.pdf</v>
+<v>Workspace01\Task_Basics\SCB_UART_PDL_v2_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Task_Basics.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Task_Basics.cydsn\Task_Basics.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Vertical"><TabbedMdiContainer Size="2191, 1016" SelectedTabbedMdiWindow="123a8e30-9461-4328-b8a8-a6d96baefd38"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="b3e52da1-6d26-4436-94bb-964e5a81ba2f" /><DocumentWindow Key="C:\Users\Joe Krachey\Documents\ECE453\psoc\Tutorial\FreeRTOS\Task_Basics\Workspace01\Task_Basics.cydsn\TopDesign\TopDesign.cysch" Guid="ee03304b-4374-4476-82ce-6f1c2640fb85" /><DocumentWindow Key="C:\Users\Joe Krachey\Documents\ECE453\psoc\Tutorial\FreeRTOS\Task_Basics\Workspace01\Task_Basics.cydsn\Task_Basics.cydwr" Guid="123a8e30-9461-4328-b8a8-a6d96baefd38" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
